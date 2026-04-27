@@ -6,7 +6,7 @@ Co-founder @ 4Sports. I build modern full-stack web apps (React/Node.js) and mob
 
 - 🌍 Based in Belgrade, Serbia
 - ✉️ [vukasin4sports@gmail.com](mailto:vukasin4sports@gmail.com)
-- 🚀 Currently working on [Tradey](http://github.com/VukasinLukic/tradey-web)
+- 🚀 Currently working on [Velve](https://github.com/teaaaaaaaaaaaaaaaaaa/velve.git)
 - 🧠 Currently learning Machine Learning Algorithms
 
 ---
@@ -33,15 +33,6 @@ Co-founder @ 4Sports. I build modern full-stack web apps (React/Node.js) and mob
 
 - **Part-time Developer @ AJSA Soft** — production apps: real estate platform & medical appointment scheduling system
 - **Co-founder @ 4Sports** — building from zero to product, handling architecture, dev, and product decisions
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VukasinLukic&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VukasinLukic&layout=compact&theme=default&hide_border=true" />
-</p>
 
 ---
 

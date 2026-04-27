@@ -42,7 +42,9 @@ Co-founder @ 4Sports. I build modern full-stack web apps (React/Node.js) and mob
     </td>
   </tr>
 </table>
-----
+
+
+
 ### 💼 Experience
 
 - **Part-time Developer @ AJSA Soft** — production apps: real estate platform & medical appointment scheduling system

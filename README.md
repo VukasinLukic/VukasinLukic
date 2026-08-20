@@ -2,10 +2,8 @@
 
 **Co-founder @[4Sports](https://4sports.rs/) & @[Velve](https://www.velveapp.com/) | Full Stack & Mobile Developer**
 
-Co-founder @ 4Sports. I build modern full-stack web apps (React/Node.js) and mobile experiences (React Native/Expo). Focused on design and scalability.
-
 - 🌍 Based in Belgrade, Serbia
-- ✉️ [vukasin4sports@gmail.com](mailto:vukasin4sports@gmail.com)
+- ✉️ [vukasin.lukic.sr@gmail.com](mailto:vukasin.lukic.sr@gmail.com)
 - 🚀 Currently working on [Velve](https://github.com/teaaaaaaaaaaaaaaaaaa/velve.git)
 - 🧠 Currently learning Machine Learning Algorithms
 

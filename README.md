@@ -1,6 +1,6 @@
 # Hi! My name is Vukašin Lukić 👋
 
-**Co-founder @ 4Sports & @ [Velve](https://www.velveapp.com/) | Full Stack & Mobile Developer**
+**Co-founder @[4Sports](https://4sports.rs/) & @[Velve](https://www.velveapp.com/) | Full Stack & Mobile Developer**
 
 Co-founder @ 4Sports. I build modern full-stack web apps (React/Node.js) and mobile experiences (React Native/Expo). Focused on design and scalability.
 

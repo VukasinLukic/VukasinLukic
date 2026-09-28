@@ -1,11 +1,10 @@
 # Hi! My name is Vukašin Lukić 👋
 
-**Co-founder @[4Sports](https://4sports.rs/) & @[Velve](https://www.velveapp.com/) | Full Stack & Mobile Developer**
+**Co-founder @[4Sports](https://4sports.rs/) & @[Velve](https://www.velveapp.com/)
 
 - 🌍 Based in Belgrade, Serbia
 - ✉️ [vukasin.lukic.sr@gmail.com](mailto:vukasin.lukic.sr@gmail.com)
-- 🚀 Currently working on [Velve](https://github.com/teaaaaaaaaaaaaaaaaaa/velve.git)
-- 🧠 Currently learning Machine Learning Algorithms
+
 
 ---
 

@@ -15,7 +15,7 @@
     <td align="center"><a href="https://linkedin.com/in/vukasinlukicc"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/></a></td>
     <td align="center"><a href="mailto:vukasin.lukic.sr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/></a></td>
     <td align="center"><a href="https://www.behance.com/vukasinlukic2"><img src="https://cdn.simpleicons.org/behance/1769FF" width="44" alt="Behance"/></a></td>
-    <td align="center"><a href="https://srpskiusrcu.rs"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="srpskiusrcu.rs"/></a></td>
+    <td align="center"><a href="https://srpskiusrcu.rs"><img src="https://skillicons.dev/icons?i=app" width="48" alt="srpskiusrcu.rs"/></a></td>
   </tr>
 </table>
 
@@ -56,7 +56,6 @@
       <h3>📚 Also built</h3>
       <p>🏟️ <b>4Sports</b>: sports-club platform, co-founded after winning Reventure<br/>
          📝 <b>Srpski u Srcu</b>: full learning platform, live with real students<br/>
-         🏠 <b>REA</b>: multi-tenant real-estate CRM/ERP (.NET + React)<br/>
          👗 <b>Velve</b>: swipe-based fashion marketplace app</p>
     </td>
   </tr>
@@ -76,7 +75,7 @@
 - 🥈 **2nd place, UniHack Timișoara** · team lead, 83 international teams
 - 🥈 **2nd place, FON Hakaton** · team lead, 20 teams
 - 🥇 **Winner, Reventure** at FON · co-founded 4Sports after it
-- 💼 **Software Engineer at AJSA Soft** · production REST APIs and React/Next.js apps
+
 
 <p align="center"><img src="./assets/title-contrib.svg" width="100%" alt="Contributions"/></p>
 

@@ -1,7 +1,7 @@
 <p align="center"><img src="./assets/header.svg" width="100%" alt="Vukašin Lukić, Belgrade, Serbia"/></p>
 
-Final-year Software Engineering student at FON Belgrade, building LLM agents and speech features in Python and TypeScript.<br/>
-My AI assistant Alano **runs in production** on srpskiusrcu.rs, and my team took 2nd of 83 at UniHack Timișoara 2025.<br/>
+Final-year Software Engineering student at FON Belgrade, building LLM agents in Python and TypeScript.<br/>
+My AI assistant Alano runs in production on srpskiusrcu.rs, and my team took **2nd of 83** at UniHack Timișoara 2025.<br/>
 Outside code, I DJ and co-organise Novi Talas events in Kruševac (400+ attendees).
 
 <p>
@@ -21,8 +21,8 @@ Write and test tools are off by default, and every file path is resolved and che
 
 ### [Alano](https://srpskiusrcu.rs)
 
-A chat assistant for students of Srpski u Srcu, the Serbian exam-prep platform I built, that answers questions about its courses in Cyrillic.
-It is live on srpskiusrcu.rs for signed-in students and visitors.
+A chat assistant that answers students' course questions in Cyrillic on Srpski u Srcu, a Serbian exam-prep platform I built.
+It is live for signed-in students and visitors.
 OpenRouter's free tier allows 50 requests a day for the whole site, so a shared Firestore counter stops at 42 and a chain of 5 free models takes over when one fails.
 
 `Firebase Functions` `OpenRouter` `Firestore` `React` · [Live site](https://srpskiusrcu.rs)
@@ -39,7 +39,6 @@ Instead of dropping outliers, I measured each suspicious group's share of the de
 
 - **Monax**: a voice expense tracker where Whisper transcribes Serbian speech, an LLM fills a JSON schema and a rule-based parser sets the amount.
 - **VukixMCP**: an MCP server that gives Claude seven tools for reading and logging my project notes in Firestore.
-- **Velve**: contributed to a swipe-based fashion marketplace app built with Expo.
 
 <p align="center"><img src="./assets/title-experience.svg" width="100%" alt="Experience"/></p>
 
@@ -53,11 +52,11 @@ Instead of dropping outliers, I measured each suspicious group's share of the de
 <table align="center">
   <tr>
     <td align="center" width="104"><img src="https://cdn.simpleicons.org/python" width="36" height="36" alt=""/><br/><sub>Python</sub></td>
-    <td align="center" width="104"><img src="https://cdn.simpleicons.org/langchain/ffffff" width="36" height="36" alt=""/><br/><sub>LangChain</sub></td>
-    <td align="center" width="104"><img src="https://cdn.simpleicons.org/ollama/ffffff" width="36" height="36" alt=""/><br/><sub>Ollama</sub></td>
-    <td align="center" width="104"><img src="https://cdn.simpleicons.org/openrouter/ffffff" width="36" height="36" alt=""/><br/><sub>OpenRouter</sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/langchain/888888" width="36" height="36" alt=""/><br/><sub>LangChain</sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/ollama/888888" width="36" height="36" alt=""/><br/><sub>Ollama</sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/openrouter/888888" width="36" height="36" alt=""/><br/><sub>OpenRouter</sub></td>
     <td align="center" width="104"><img src="https://cdn.simpleicons.org/scikitlearn" width="36" height="36" alt=""/><br/><sub>scikit-learn</sub></td>
-    <td align="center" width="104"><img src="https://cdn.simpleicons.org/pandas/ffffff" width="36" height="36" alt=""/><br/><sub>pandas</sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/pandas/888888" width="36" height="36" alt=""/><br/><sub>pandas</sub></td>
   </tr>
   <tr>
     <td align="center" width="104"><img src="https://cdn.simpleicons.org/typescript" width="36" height="36" alt=""/><br/><sub>TypeScript</sub></td>
